@@ -1,0 +1,16 @@
+job_role,skills,synonyms
+Data Scientist,Python SQL MachineLearning DataAnalysis Statistics DeepLearning NLP Pandas NumPy Visualization,data science|data analyst|machine learning|deep learning|natural language processing|nlp|numpy|pandas|visualization|statistics|ds|ai
+DevOps Engineer,AWS Docker Kubernetes K8s Git CICD Linux Terraform Jenkins Ansible Monitoring,devops|dev ops|cicd|ci/cd|ci cd|kubernetes|k8s|docker|terraform|jenkins|ansible|monitoring|automation|infrastructure|iac|pipeline|git|linux|aws
+Backend Developer,Java Python SQL APIs RestAPI Microservices NodeJS SpringBoot PostgreSQL MongoDB,backend|back end|server side|rest api|restful|nodejs|node.js|node|spring boot|spring|postgresql|postgres|mongodb|mongo|microservices|java|python|sql|apis
+Frontend Developer,HTML CSS JavaScript JS React Angular VueJS TypeScript UI UX Figma,frontend|front end|html|css|javascript|js|typescript|react|angular|vuejs|vue.js|vue|figma|design|web|ui|ux|ui/ux
+Cloud Architect,AWS Azure GCP Cloud Networking Security IAM Serverless DevOps Infrastructure,cloud|aws|azure|gcp|google cloud|amazon|networking|security|iam|serverless|infrastructure|architect
+Machine Learning Engineer,Python ML TensorFlow PyTorch MachineLearning DeepLearning ComputerVision NLP ModelDeployment MLOps,ml|machine learning|deep learning|dl|tensorflow|pytorch|computer vision|cv|nlp|model deployment|mlops|ai engineer|scikit|python
+Mobile Developer,Flutter Dart Android iOS ReactNative Swift Kotlin Firebase APIs UI,mobile|app developer|android|ios|flutter|dart|swift|kotlin|react native|reactnative|firebase
+Cybersecurity Analyst,Networking Firewalls Encryption PenTesting SIEM SOC Linux Python Forensics,cybersecurity|cyber security|security|pentesting|pen testing|penetration testing|ethical hacking|siem|soc|encryption|firewalls|forensics|networking
+Database Administrator,SQL MySQL PostgreSQL MongoDB OracleDB Redis DataModeling Backup Performance,dba|database|db|sql|mysql|postgresql|postgres|mongodb|mongo|oracle|redis|data modeling|data modelling|backup
+AI Research Scientist,Python Mathematics Statistics DeepLearning NLP ComputerVision Research TensorFlow PyTorch,ai research|research scientist|deep learning|nlp|computer vision|math|mathematics|statistics|tensorflow|pytorch|research|python
+Full Stack Developer,HTML CSS JavaScript JS React NodeJS Python SQL MongoDB RestAPI Git,fullstack|full stack|full-stack|web developer|html|css|javascript|js|react|nodejs|node.js|node|mongodb|mongo|sql|git|python
+Blockchain Developer,Solidity Ethereum Web3 SmartContracts Python JavaScript Cryptography Blockchain DeFi,blockchain|crypto|web3|solidity|ethereum|smart contracts|defi|cryptography|nft|javascript|python
+Data Engineer,Python SQL Spark Hadoop ETL Airflow Kafka DataWarehousing DataWarehouse BigQuery AWS,data engineer|etl|pipeline|spark|hadoop|kafka|airflow|bigquery|data warehouse|data warehousing|python|sql|aws
+Systems Analyst,Requirements Documentation UML BusinessAnalysis SQL Networking SystemDesign Testing,systems analyst|business analyst|ba|system design|uml|documentation|requirements|testing|qa|sql
+Site Reliability Engineer,Linux AWS Kubernetes K8s Monitoring Automation Python Scripting Incident Management,sre|site reliability|devops|linux|kubernetes|k8s|monitoring|scripting|incident management|on-call|python|aws|automation
