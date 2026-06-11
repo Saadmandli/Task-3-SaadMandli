@@ -13,7 +13,8 @@
 ---
 
 ### 📊 Step 2 & 3 — Processing & All Roles Scored
-![All Roles Scored](<img width="428" height="344" alt="proj-3" src="https://github.com/user-attachments/assets/ecff06b6-054e-40ff-9ef4-d7beab8ff218" />
+![All Roles Scored](<img width="428" height="344" alt="proj-3" src="https://github.com/user-attachments/assets/51562f41-d20a-45ce-b42b-082fdfc09e0a" />
+
 )
 
 ---
