@@ -27,7 +27,8 @@
 ---
 
 ### 📋 Summary Dashboard
-![Summary](<img width="421" height="218" alt="project 3" src="https://github.com/user-attachments/assets/7702edbc-2e27-4576-9151-c706c6ec4e62" />
+![Summary](<img width="421" height="218" alt="project 3" src="https://github.com/user-attachments/assets/e0a3b338-a0a5-4ee4-900b-3970cf7c7a1c" />
+
 )
 
 ---
