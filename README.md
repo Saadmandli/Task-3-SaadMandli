@@ -7,22 +7,26 @@
 ## 📸 Project Screenshots
 
 ### 🖥️ Step 1 — Enter Your Skills
-![Enter Skills Interface](prject-3.png)
+![Enter Skills Interface](<img width="424" height="362" alt="prject-3" src="https://github.com/user-attachments/assets/71f71efd-1cab-4c72-9c27-d310ebda50d2" />
+
 
 ---
 
 ### 📊 Step 2 & 3 — Processing & All Roles Scored
-![All Roles Scored](proj-3.png)
+![All Roles Scored](<img width="428" height="344" alt="proj-3" src="https://github.com/user-attachments/assets/ecff06b6-054e-40ff-9ef4-d7beab8ff218" />
+)
 
 ---
 
 ### 🏆 Step 4 — Top Matches For You
-![Top Matches](prj-3.png)
+![Top Matches](<img width="424" height="424" alt="prj-3" src="https://github.com/user-attachments/assets/964ad805-5a38-4d10-a1f1-6c6d7e56c2ce" />
+)
 
 ---
 
 ### 📋 Summary Dashboard
-![Summary](project_3.png)
+![Summary](<img width="421" height="218" alt="project 3" src="https://github.com/user-attachments/assets/7702edbc-2e27-4576-9151-c706c6ec4e62" />
+)
 
 ---
 
